@@ -1,0 +1,48 @@
+# robots.txt — Lumen Ostéopathie (SITE DÉMO NEXTIWEB Studio · modèle pour ostéopathes)
+# https://osteopathe.nextiwebstudio.ca/
+# Clinique fictive créée à des fins de démonstration par NEXTIWEB Studio (nextiweb.ca).
+
+# Tous les robots — indexation autorisée
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+# Bots LLM / IA — accès au contenu public autorisé
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemap
+Sitemap: https://osteopathe.nextiwebstudio.ca/sitemap.xml
+
+# Référence LLM (contexte machine-lisible : démo NEXTIWEB pour ostéopathes)
+# See: https://osteopathe.nextiwebstudio.ca/llms.txt

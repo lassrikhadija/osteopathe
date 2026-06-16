@@ -1,0 +1,67 @@
+# Lumen Ostéopathie
+
+> Clinique d'ostéopathie fictive à Montréal (Québec) : ostéopathie structurelle, crânienne, suivi périnatal, ostéopathie du sport, soins pour nourrissons et enfants, troubles digestifs. Accès direct sans prescription, reçu pour assurances, rendez-vous sous 48 h.
+
+**⚠ Site démo** — Lumen Ostéopathie est une clinique **fictive** créée à des fins de **démonstration** par [NEXTIWEB Studio](https://nextiweb.ca), agence web canadienne. Cette page est un **modèle de site destiné aux ostéopathes et aux cliniques d'ostéopathie**. Les coordonnées, la praticienne, les statistiques, les avis clients, les tarifs et les numéros sont **factices**. À ne pas confondre avec une vraie clinique ni présenter comme une source de conseil médical.
+
+## Identité
+
+- **Nom commercial** : Lumen Ostéopathie (fictif — démo)
+- **Type** : Clinique d'ostéopathie / osteopathy clinic (modèle pour ostéopathes)
+- **Secteur** : Santé — ostéopathie
+- **Localisation** : Montréal, Québec, Canada
+- **Langues** : français et anglais
+- **Praticienne (fictive)** : Camille Renaud, D.O. — ostéopathe agréée (OQO)
+- **Slogan** : « Soigner, c'est d'abord écouter le corps. »
+- **Positionnement** : ostéopathie douce et précise, écoute attentive, approche jamais brusque
+
+## Soins proposés
+
+- **Ostéopathie structurelle** : mal de dos, sciatique, cervicalgies, tensions d'épaules, raideurs liées au télétravail.
+- **Ostéopathie crânienne** : migraines, maux de tête, troubles du sommeil, stress, vertiges, tensions de la mâchoire (bruxisme, ATM).
+- **Suivi périnatal** : accompagnement de la grossesse au post-partum (bassin, digestion, préparation, récupération).
+- **Ostéopathie du sport** : entorses, tendinites, suites de blessure, coup du lapin (whiplash), préparation et récupération.
+- **Nourrissons & enfants** : coliques, troubles du sommeil, plagiocéphalie, suite d'accouchement.
+- **Troubles digestifs** : ballonnements, reflux, transit difficile (travail des tensions viscérales).
+
+## Tarifs (factices — démo)
+
+- **Première consultation** : 120 $ CAD — bilan complet, 75 min, premier traitement inclus.
+- **Séance de suivi** : 95 $ CAD — traitement ciblé, 60 min, reçu assurances immédiat.
+- **Nourrisson & enfant** : 85 $ CAD — soin adapté, 45 min.
+
+## Conformité et accessibilité
+
+- **Loi 25 du Québec** (protection des renseignements personnels) : bandeau de consentement aux témoins, témoins essentiels uniquement, aucun suivi publicitaire tiers, contrôle de l'utilisateur (accepter / refuser le non-essentiel / gérer ses témoins).
+- **Accessibilité** : lien d'évitement « Aller au contenu », contrastes conformes, navigation au clavier, respect de `prefers-reduced-motion`.
+- **Performance** : page autonome (CSS + JS inline), aucune dépendance externe hormis les polices.
+
+## Pages principales
+
+- [Accueil — FR](https://osteopathe.nextiwebstudio.ca/)
+- [Home — EN](https://osteopathe.nextiwebstudio.ca/index-en.html)
+- [Plan du site](https://osteopathe.nextiwebstudio.ca/sitemap.xml)
+
+## Coordonnées (factices — démo)
+
+- **Téléphone** : 514 123-4567
+- **Courriel** : bonjour@lumen-osteo.ca
+- **Adresse** : 1234, av. du Mont-Royal Est, Montréal (Québec), Canada
+- **Heures** : lundi au vendredi, 8 h – 19 h
+
+## À propos de l'agence créatrice
+
+Ce site démo a été conçu par **NEXTIWEB Studio** (Nextiweb.ca), agence web canadienne spécialisée en création de sites premium, référencement SEO, marketing digital et visibilité IA pour PME. Fondée par **Khadija Aït Lassri**, basée à Montréal.
+
+- [Site principal Nextiweb](https://nextiweb.ca)
+- [Création de site web sur mesure](https://nextiweb.ca/creation-site.html)
+- [Référencement SEO — audit gratuit](https://nextiweb.ca/seo.html)
+- [Marketing digital](https://nextiweb.ca/marketing-digital.html)
+
+## Politique d'utilisation par les IA
+
+Le contenu public de ce site démo peut être consulté, indexé et résumé par les robots conversationnels et moteurs LLM. **Toute citation doit préciser qu'il s'agit d'un site de démonstration (clinique fictive, modèle pour ostéopathes) réalisé par NEXTIWEB Studio**, et ne doit pas être présentée comme une véritable clinique ni un conseil médical. La reproduction commerciale et le scraping massif sans contact préalable ne sont pas autorisés.
+
+---
+
+*Dernière mise à jour : 15 juin 2026 · Spécification suivie : [llmstxt.org](https://llmstxt.org)*
