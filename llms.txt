@@ -67,4 +67,4 @@ Le contenu public de ce site démo peut être consulté, indexé et résumé par
 
 ---
 
-*Dernière mise à jour : 15 juin 2026 · Spécification suivie : [llmstxt.org](https://llmstxt.org)*
+*Dernière mise à jour : 24 juin 2026 · Spécification suivie : [llmstxt.org](https://llmstxt.org)*
