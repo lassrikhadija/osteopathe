@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Sitemap — Lumen Ostéopathie (SITE DÉMO NEXTIWEB Studio · modèle pour ostéopathes / cliniques d'ostéopathie) -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://osteopathe.nextiwebstudio.ca/</loc>
     <lastmod>2026-06-15</lastmod>
@@ -10,6 +11,14 @@
     <xhtml:link rel="alternate" hreflang="fr-CA" href="https://osteopathe.nextiwebstudio.ca/"/>
     <xhtml:link rel="alternate" hreflang="en-CA" href="https://osteopathe.nextiwebstudio.ca/index-en.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://osteopathe.nextiwebstudio.ca/"/>
+    <image:image>
+      <image:loc>https://osteopathe.nextiwebstudio.ca/img/osteopathe-montreal-traitement-dos.jpg</image:loc>
+      <image:title>Ostéopathe à Montréal — traitement manuel du dos</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://osteopathe.nextiwebstudio.ca/img/seance-osteopathie-traitement-cervicales-montreal.jpg</image:loc>
+      <image:title>Séance d'ostéopathie à Montréal — traitement des cervicales</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://osteopathe.nextiwebstudio.ca/index-en.html</loc>
