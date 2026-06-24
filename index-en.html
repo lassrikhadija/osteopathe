@@ -12,6 +12,8 @@
 -->
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#FBF6F3">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
 <title>Lumen Osteopathy — Osteopathy & movement · Montreal</title>
 <meta name="description" content="Lumen Osteopathy — osteopathy clinic in Montreal. Structural, cranial, perinatal, sports and pediatric care. Book online. (NEXTIWEB Studio demo site — template for osteopaths / osteopathy clinics)">
 <meta name="robots" content="index,follow">
@@ -332,6 +334,7 @@ section{ position:relative; }
 }
 .portrait svg{ width:70%; opacity:.85; }
 .portrait img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.portrait picture, .imgband picture{ display:contents; }
 .portrait .duotone{ position:absolute; inset:0; z-index:1; background:linear-gradient(180deg,transparent 40%,rgba(110,38,56,.18)); }
 .about__badge{
   position:absolute; bottom:-22px; left:-22px; background:#fff; border-radius:20px; padding:1.1rem 1.3rem;
@@ -675,7 +678,10 @@ section{ position:relative; }
   <div class="wrap about">
     <div class="about__media reveal">
       <div class="portrait">
-        <img src="img/osteopathe-montreal-traitement-dos.jpg" alt="Osteopath in Montreal performing hands-on back treatment during an osteopathy session" width="800" height="1200" loading="lazy">
+        <picture>
+          <source srcset="img/osteopathe-montreal-traitement-dos.webp" type="image/webp">
+          <img src="img/osteopathe-montreal-traitement-dos.jpg" alt="Osteopath in Montreal performing hands-on back treatment during an osteopathy session" width="800" height="1200" loading="lazy">
+        </picture>
         <div class="duotone"></div>
       </div>
       <div class="about__badge">
@@ -832,7 +838,10 @@ section{ position:relative; }
 
 <!-- ============ IMAGE BAND ============ -->
 <section class="imgband" aria-label="Osteopathy treatment">
-  <img src="img/seance-osteopathie-traitement-cervicales-montreal.jpg" alt="Osteopathy session in Montreal: hands-on neck treatment of a patient by an osteopath" width="1600" height="1067" loading="lazy">
+  <picture>
+    <source srcset="img/seance-osteopathie-traitement-cervicales-montreal.webp" type="image/webp">
+    <img src="img/seance-osteopathie-traitement-cervicales-montreal.jpg" alt="Osteopathy session in Montreal: hands-on neck treatment of a patient by an osteopath" width="1600" height="1067" loading="lazy">
+  </picture>
   <div class="imgband__cap"><div class="wrap">
     <h2>Expert hands, care tailored to you.</h2>
     <p>Every move is adapted to your body and to the source of your pain.</p>

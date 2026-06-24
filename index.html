@@ -12,6 +12,8 @@
 -->
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#FBF6F3">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
 <title>Lumen Ostéopathie — Ostéopathie & mouvement · Montréal</title>
 <meta name="description" content="Lumen Ostéopathie — clinique d'ostéopathie à Montréal. Soins structurels, crâniens, périnataux, sportifs et pédiatriques. Prise de rendez-vous en ligne. (Site démo NEXTIWEB Studio — modèle pour ostéopathes / cliniques d'ostéopathie)">
 <meta name="robots" content="index,follow">
@@ -340,6 +342,7 @@ section{ position:relative; }
 }
 .portrait svg{ width:70%; opacity:.85; }
 .portrait img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.portrait picture, .imgband picture{ display:contents; }
 .portrait .duotone{ position:absolute; inset:0; z-index:1; background:linear-gradient(180deg,transparent 40%,rgba(110,38,56,.18)); }
 .about__badge{
   position:absolute; bottom:-22px; left:-22px; background:#fff; border-radius:20px; padding:1.1rem 1.3rem;
@@ -683,7 +686,10 @@ section{ position:relative; }
   <div class="wrap about">
     <div class="about__media reveal">
       <div class="portrait">
-        <img src="img/osteopathe-montreal-traitement-dos.jpg" alt="Ostéopathe à Montréal effectuant un traitement manuel du dos lors d'une séance d'ostéopathie" width="800" height="1200" loading="lazy">
+        <picture>
+          <source srcset="img/osteopathe-montreal-traitement-dos.webp" type="image/webp">
+          <img src="img/osteopathe-montreal-traitement-dos.jpg" alt="Ostéopathe à Montréal effectuant un traitement manuel du dos lors d'une séance d'ostéopathie" width="800" height="1200" loading="lazy">
+        </picture>
         <div class="duotone"></div>
       </div>
       <div class="about__badge">
@@ -840,7 +846,10 @@ section{ position:relative; }
 
 <!-- ============ BANDEAU IMAGE ============ -->
 <section class="imgband" aria-label="Traitement d'ostéopathie">
-  <img src="img/seance-osteopathie-traitement-cervicales-montreal.jpg" alt="Séance d'ostéopathie à Montréal : traitement manuel des cervicales d'une patiente par une ostéopathe" width="1600" height="1067" loading="lazy">
+  <picture>
+    <source srcset="img/seance-osteopathie-traitement-cervicales-montreal.webp" type="image/webp">
+    <img src="img/seance-osteopathie-traitement-cervicales-montreal.jpg" alt="Séance d'ostéopathie à Montréal : traitement manuel des cervicales d'une patiente par une ostéopathe" width="1600" height="1067" loading="lazy">
+  </picture>
   <div class="imgband__cap"><div class="wrap">
     <h2>Des mains expertes, un soin sur mesure.</h2>
     <p>Chaque geste est adapté à votre corps et à l'origine de votre douleur.</p>
