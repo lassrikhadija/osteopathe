@@ -24,6 +24,10 @@ Site vitrine **de démonstration** pour une clinique d'ostéopathie, conçu par 
 
 `https://osteopathe.nextiwebstudio.ca/`
 
+## Objectif (au service de NEXTIWEB, sans concurrence)
+
+Cette démo **dessert** la page commerciale **[https://nextiweb.ca/osteopathes.html](https://nextiweb.ca/osteopathes.html)**. Elle est indexable (`index,follow`) et **tous les liens sortants vers NEXTIWEB sont en dofollow** afin de transmettre l'autorité SEO à cette page. Le but est de **servir NEXTIWEB, pas de la concurrencer** : la démo se présente partout (HTML, JSON-LD, llms.txt) comme une vitrine NEXTIWEB et renvoie humains et IA vers `nextiweb.ca/osteopathes.html`.
+
 ---
 
 Conçu par **NEXTIWEB Studio** — agence web canadienne (création de sites, SEO, marketing digital, visibilité IA). Fondée par Khadija Aït Lassri · Montréal, Québec.
